@@ -1,0 +1,14 @@
+interface:
+  display_name: HIKING Mint
+  short_description: Check eligibility, quote costs, and mint HIKING safely
+  default_prompt: Use $mint-hiking to check my Binance Agentic Wallet and prepare
+    minting 1 HIKING pack.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
