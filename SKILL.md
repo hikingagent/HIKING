@@ -10,7 +10,7 @@ Respond in the user's language. This file is self-contained. Installing or readi
 ## Deployment
 
 - Network: BNB Smart Chain, chain ID 56.
-- HIKING: `0x628ccf2FE45b711e2149E2F408dbce1005660a6B`.
+- HIKING: `0x5Ab16452Fa0D9a6Db9dc2369e3063de4986eac59`.
 - Payment token: BSC USDT `0x55d398326f99059fF775485246999027B3197955` (18 decimals).
 - Expected Agent ID registry: `0x60B9262456dE011F7d15a54CdD8c48bAaa8B022F`.
 - Each pack gives the sender 50,000 HIKING and mints 25,000 HIKING to the contract's liquidity reserve.
